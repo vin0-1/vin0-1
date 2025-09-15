@@ -4,7 +4,8 @@
 - 💻 Desenvolvedor apaixonado por tecnologia.
 - 🚀 Atualmente trabalho com back-end na Síntese Jr(empresa jr).
 
-
+<div>
+  
 ## ⚡ Estatísticas do GitHub
 
 <div align="center">
@@ -13,12 +14,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin0-1&layout=compact&theme=highcontrast" alt="Top Langs"/>
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vinicios-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Vinicios-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Vinicios-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
 
 ## 🔥 Streaks
 
@@ -27,6 +22,14 @@
   <img src="https://streak-stats.demolab.com?user=vin0-1&theme=highcontrast&border_radius=10" alt="GitHub Streak"/>
 
 </div>
+
+## 💻 Linguagens e ferramentas
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,c,py" />
+  </a>
+</p>
 
 ## 🌎 Conecte-se comigo
 
@@ -51,3 +54,4 @@
 
 </div>
 
+</div>
