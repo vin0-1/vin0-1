@@ -2,7 +2,7 @@
 
 - 📖 Graduando de Sistemas de Informação pela USP.
 - 💻 Desenvolvedor apaixonado por tecnologia.
-- 🚀 Atualmente trabalho com back-end na Síntese Jr(empresa jr).
+- 🚀 Atualmente trabalho com back-end na Síntese Jr.
 
 <div>
   
