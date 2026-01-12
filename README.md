@@ -1,36 +1,18 @@
-# 👋 Olá! Eu sou o Vinicios Conceição
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB20D3&width=440&height=55&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vinicios.;Bem-vindo+ao+meu+README!)](https://git.io/typing-svg)
 
 - 📖 Graduando de Sistemas de Informação pela USP.
 - 💻 Desenvolvedor apaixonado por tecnologia.
 - 🚀 Atualmente trabalho com back-end na Síntese Jr.
 
 <div>
-  
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin0-1&layout=compact&theme=highcontrast" alt="Top Langs"/>
-
-</div>
-
-## 🔥 Streaks
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=vin0-1&theme=highcontrast&border_radius=10" alt="GitHub Streak"/>
-
-</div>
 
 ## 💻 Linguagens e ferramentas
 
-<p align="center">
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,nodejs,c,py,java,js,css,html,sql" />
+    <img src="https://skillicons.dev/icons?i=notion,git,github,windows,vscode,eclipse,mongodb,mysql,java,nodejs,c,py,js,css,html,react," />
   </a>
-</p>
+
 
 ## 🌎 Conecte-se comigo
 
