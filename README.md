@@ -9,8 +9,9 @@
 ## ⚡ Estatísticas do GitHub
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vin0-1&show_icons=true&theme=highcontrast" alt="GitHub Stats"/>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vin0-1&layout=compact&theme=highcontrast" alt="Top Langs"/>
 
 </div>
