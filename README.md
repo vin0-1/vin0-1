@@ -1,4 +1,5 @@
 <div aling="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB20D3&width=440&height=55&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Vinicios.;Bem-vindo+ao+meu+README!)](https://git.io/typing-svg)
 
 
@@ -6,13 +7,6 @@
 - 💻 Desenvolvedor apaixonado por tecnologia.
 - 🚀 Atualmente trabalho com back-end na Síntese Jr.
 
-</div>
-
-<div>
-## Sats
-  
-  ![Anurag's GitHub stats](https://github-readmestats-nine.vercel.app/api?username=vin0-1&show_icons=true&theme=radical)
-  
 </div>
 
 <div>
